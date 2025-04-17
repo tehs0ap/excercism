@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "annalyns-infiltration\AnnalynsInfiltration.csproj", "{52D364EE-B62D-486E-BABD-8005C1559F42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "log-levels\LogLevels.csproj", "{925DE156-B17C-42B4-A9B1-42DAAF68C479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalysis", "log-analysis\LogAnalysis.csproj", "{C5951039-05F1-4D20-9634-18810BA82FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{52D364EE-B62D-486E-BABD-8005C1559F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D364EE-B62D-486E-BABD-8005C1559F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D364EE-B62D-486E-BABD-8005C1559F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925DE156-B17C-42B4-A9B1-42DAAF68C479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925DE156-B17C-42B4-A9B1-42DAAF68C479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925DE156-B17C-42B4-A9B1-42DAAF68C479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925DE156-B17C-42B4-A9B1-42DAAF68C479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5951039-05F1-4D20-9634-18810BA82FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5951039-05F1-4D20-9634-18810BA82FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5951039-05F1-4D20-9634-18810BA82FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5951039-05F1-4D20-9634-18810BA82FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
